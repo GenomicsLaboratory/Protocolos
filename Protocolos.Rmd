@@ -1,0 +1,38 @@
+---
+title: "Protocolos de laboratorio"
+subtitle: 'Laboratorio de genética y genómica aplicada'
+author:
+ name: Dr. José A. Gallardo.
+ affiliation: Pontificia Universidad Católica de Valparaíso
+ email: <jose.gallardo@pucv.cl>
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introducción
+
+En el siguiente repositorio se describen todos los protocolos utilizados en el Laboratorio de Genética y Genómica Aplicada. 
+
+## Índice  
+1. [Protocolo 1:](#id1)  
+2. [Protocolo 2:](#id2)  
+
+<div id='id1' />
+## Protocolo 1: 
+
+Adaptado de: 
+
+Objetivo: 
+
+
+<div id='id2' />
+## Protocolo 1: 
+
+Adaptado de: 
+
+Objetivo: 
