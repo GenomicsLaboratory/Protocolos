@@ -1,4 +1,4 @@
-# Protocolos
+# Protocolos Laboratorio de Genética y Genómica Aplicada.
 
 ## Introducción
 
